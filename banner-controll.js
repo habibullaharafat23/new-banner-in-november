@@ -54,7 +54,7 @@ var onClickDeclined = "granted";
 var onClickAcceptSecond = "granted";
 var onClickDeclinedSecond = "denied";
 
-var secondBannerShowingTime = 10;
+var secondBannerShowingTime = 5;
 
 var storeQuery = true;
 var addBackToUrl = true;
