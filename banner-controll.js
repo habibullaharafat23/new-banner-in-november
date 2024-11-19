@@ -1122,7 +1122,7 @@ window.addEventListener("load", function() {
 
 						gtag('consent', 'update', declinedConsent);
 						pushDataLayer(declinedConsent, "consent_update");
-					} else if (onClickDeclinedSecond == "denied") {
+					} else if (onClickDeclinedSecond == "granted") {
 
 						addStoredParamsToURL();
                         
